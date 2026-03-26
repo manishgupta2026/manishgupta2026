@@ -24,7 +24,7 @@ I'm a **third-year B.Tech Computer Science student** at ITER, SOA University, pa
 
 ```javascript
 const manish = {
-    location: "Mumbai, India 🇮🇳",
+    location: "Odisha, India 🇮🇳",
     education: "B.Tech CSE @ ITER, SOA University",
     currentFocus: ["Full-Stack Development", "AI/ML Integration", "Product Leadership"],
     goal: "Land a full-stack developer role before graduation",
@@ -166,19 +166,6 @@ values:
   - "Collaborative team environments"
   - "Financial independence through innovation"
 ```
-
----
-
-## 🌈 Design Philosophy
-
-I believe in building with a consistent, thoughtful design language. My projects follow this color palette:
-
-- **Primary:** `#675647` / `#E3BD90`
-- **Neutral:** `#DFD3B5` / `#C0BDBC`
-- **Accent:** `#6C6E36`
-- **Text:** `#3B3B3B`
-
----
 
 ## 📫 Let's Connect
 
