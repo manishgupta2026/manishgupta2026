@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **third-year B.Tech Computer Science student** at ITER, SOA University, passionate about building innovative solutions that bridge creativity and technology. Currently competing in **Guidewire DEVTrails 2026**, developing **GigShield** — an AI-powered parametric insurance platform for India's gig economy workers.
+I'm a **third-year B.Tech Computer Science student** at ITER, SOA University, passionate about building innovative solutions that bridge creativity and technology. Currently competing in **Guidewire DEVTrails 2026**, developing **Zafby** — an AI-powered parametric insurance platform for India's gig economy workers.
 
 ```javascript
 const manish = {
@@ -34,7 +34,7 @@ const manish = {
 
 ### 🎯 Currently Working On
 
-- **🏆 GigShield** - AI-powered parametric insurance for gig workers (Guidewire DEVTrails 2026 Hackathon)
+- **🏆 Zafby** - AI-powered parametric insurance for gig workers (Guidewire DEVTrails 2026 Hackathon)
   - Smart Swarm Intelligence for risk assessment
   - Hybrid Smart Saver Insurance retention model
   
@@ -130,19 +130,22 @@ const manish = {
 - Secure file management
 - **Tech:** Next.js, Appwrite, TypeScript
 
-### 🛡️ GigShield (In Development)
+### 🛡️ Zafby — GigShield
 **AI-Powered Parametric Insurance Platform**
-- Smart Swarm Intelligence for risk assessment
-- Designed for India's gig economy delivery workers
-- Hybrid insurance retention model
-- **Tech:** AI/ML, Next.js, Real-time Processing
+
+> 🥇 **#1 in University · Top 60 Nationally — Guidewire DEVTrails 2026**
+
+- Smart Swarm Intelligence for risk assessment using real-time rider movement data
+- Designed for India's gig economy delivery workers (Zomato, Swiggy, etc.)
+- Hybrid Smart Saver Insurance retention model
+- **Tech:** AI/ML, React, Node.js, PostgreSQL, Real-time Processing
 
 ---
 
 ## 📈 Current Focus
 
 - 🔍 **Interview Prep:** Mastering Next.js App Router, Server Components, and rendering strategies
-- 🏗️ **Building:** GigShield for Guidewire DEVTrails 2026
+- 🏗️ **Building:** Zafby for Guidewire DEVTrails 2026
 - 📝 **Content Creation:** Blog posts and short-form reels for CourseHunt
 - 💡 **Learning:** Advanced AI integration, product development, and scalable architecture
 
